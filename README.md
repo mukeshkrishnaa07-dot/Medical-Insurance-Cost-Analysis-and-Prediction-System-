@@ -416,3 +416,12 @@ The Medical Insurance Cost Analysis and Prediction System provides a complete so
 Data Analytics & Machine Learning Project
 
 Medical Insurance Cost Analysis and Prediction System
+
+#output
+<img width="713" height="470" alt="WhatsApp Image 2026-06-10 at 6 18 40 PM" src="https://github.com/user-attachments/assets/76079800-612c-43d1-9d2f-e75272b17f76" />
+<img width="725" height="470" alt="WhatsApp Image 2026-06-10 at 6 18 40 PM (2)" src="https://github.com/user-attachments/assets/f37cd6e0-b372-4f21-96be-93d6a89ac4b3" />
+<img width="621" height="451" alt="WhatsApp Image 2026-06-10 at 6 18 40 PM (1)" src="https://github.com/user-attachments/assets/d409f373-dec8-48f1-96bd-6cc4d1a55c35" />
+<img width="713" height="470" alt="WhatsApp Image 2026-06-10 at 6 18 39 PM" src="https://github.com/user-attachments/assets/1a610677-52c3-4465-beda-22986501e318" />
+<img width="713" height="470" alt="WhatsApp Image 2026-06-10 at 6 18 39 PM (1)" src="https://github.com/user-attachments/assets/64e45cf7-7d7a-4a12-8315-7a2d04a682c3" />
+<img width="695" height="470" alt="WhatsApp Image 2026-06-10 at 6 18 38 PM" src="https://github.com/user-attachments/assets/cb977e6b-a42a-4040-a970-e5b7f568778f" />
+
